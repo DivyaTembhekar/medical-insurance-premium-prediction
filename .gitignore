@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Data files (review before publishing; do not commit private or unlicensed data)
+*.csv
+*.xlsx
+*.xls
+
+# OS/editor
+.DS_Store
+.vscode/
